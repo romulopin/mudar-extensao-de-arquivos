@@ -2,6 +2,7 @@ Script escrito em python através do Jupyter Notebook para mudar a extensao de u
 os arquivos com a extensão pré especificada escolhidos
 
 Adaptador por: Rômulo Silva Pinheiro
+
 Me sigam nas redes sociais:
 
 https://www.facebook.com/romulospinheiro
