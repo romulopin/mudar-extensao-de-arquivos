@@ -1,7 +1,8 @@
 Script escrito em python através do Jupyter Notebook para mudar a extensao de um tipo de arquivo. Ele varre um diretório específico e muda para .rar 
 os arquivos com a extensão pré especificada escolhidos
 
-Autor: Rômulo Silva Pinheiro Me sigam nas redes sociais:
+Adaptador por: Rômulo Silva Pinheiro
+Me sigam nas redes sociais:
 
 https://www.facebook.com/romulospinheiro
 
